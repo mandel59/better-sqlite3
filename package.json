@@ -50,5 +50,6 @@
     "aggregate functions",
     "window functions",
     "database"
-  ]
+  ],
+  "packageManager": "npm@9.1.2"
 }
